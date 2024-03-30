@@ -80,6 +80,19 @@ git config --global user.mail<email>
 ```sh
 Нажимаешь (Esc) пишешь (:wg)
 ```
+Для закачки репозитория в GitHub делай следующее:
+```sh
+git remote add origin https://github.com/Eldargo1/-.git
+```
+после
+```sh
+git branch -M main
+```
+и последнее
+```sh
+git push -u origin main
+```
+
 
 ## Инструкция для работы с Markdown
 
